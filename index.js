@@ -49,3 +49,6 @@ wordDisplay.innerHTML = '';
 for (let i = 0; i < wordDashes.length; i++) {
     wordDisplay.innerHTML += wordDashes[i] + ' ';
 }
+/*I draw the man using html and css, I was thinking of hiding the parts of the man, and when
+the user doesn't guess the letter i unhide part after part and when all parts are displayed
+the user loose. I couldn't translate this logic into code, I am sorry*/
